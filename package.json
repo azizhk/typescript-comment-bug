@@ -1,0 +1,13 @@
+{
+  "name": "typescript-comment-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Aziz Khambati <aziz.h.khambati@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc -p tsconfig.json"
+  },
+  "devDependencies": {
+    "typescript": "^3.1.6"
+  }
+}
